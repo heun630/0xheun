@@ -49,7 +49,7 @@ export type Author = {
 export type Bio = {
   email: string;
   residence: string;
-  bachelorDegree: string;
+  masterDegree: string;
 };
 
 export type Social = {

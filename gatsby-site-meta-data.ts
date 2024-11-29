@@ -2,10 +2,10 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `0xheun.com`,
+  description: `0xheun`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
+  siteUrl: `https://0xheun.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -13,7 +13,7 @@ export default {
    */
   comments: {
     utterances: {
-      repo: ``, //`danmin20/danmin-gatsby-blog`,
+      repo: `heun630/0xheun`,
     },
   },
 
@@ -21,22 +21,21 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `이자흔`,
+    nickname: `Heun`,
+    stack: ['Backend', 'NodeOps', 'Core'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `egg6030@gmail.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
+      masterDegree: 'Korea Univ. Financial Security (2023.09 - now)',
     },
     social: {
-      github: `https://github.com/danmin20`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
-      resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      github: `https://github.com/heun630`,
+      linkedIn: `https://www.linkedin.com/in/0xheun`,
+      resume: ``,
     },
     dropdown: {
-      tistory: 'https://danminblog.tistory.com/',
-      velog: 'https://velog.io/@danmin20',
+      tistory: 'https://heun.tistory.com/',
     },
   },
 

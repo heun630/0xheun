@@ -33,7 +33,7 @@ const MainBanner: React.FC<MainBannerProps> = ({ author }) => {
           </strong>
           입니다.
         </S.Title>
-        <Image alt='thumbnail' src='thumbnail.png' />
+        {/*<Image alt='thumbnail' src='thumbnail.png' />*/}
         <S.SocialWrapper>
           {Object.keys(social).map(
             (link, index) =>
@@ -63,9 +63,9 @@ const MainBanner: React.FC<MainBannerProps> = ({ author }) => {
         </S.SocialWrapper>
       </S.IntroWrapper>
 
-      <S.BuyMeACoffeeWrapper>
-        <BuyMeACoffee />
-      </S.BuyMeACoffeeWrapper>
+      {/*<S.BuyMeACoffeeWrapper>*/}
+      {/*  <BuyMeACoffee />*/}
+      {/*</S.BuyMeACoffeeWrapper>*/}
     </S.Wrapper>
   );
 };
