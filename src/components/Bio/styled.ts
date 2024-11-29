@@ -6,6 +6,7 @@ export const Wrapper = styled.div`
   width: 100%;
   font-family: GmarketSansLight;
   margin-bottom: 50px;
+  margin-top: 50px;
 
   @media ${MOBILE_MEDIA_QUERY} {
     line-height: 130%;

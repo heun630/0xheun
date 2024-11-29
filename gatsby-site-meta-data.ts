@@ -23,7 +23,7 @@ export default {
   author: {
     name: `이자흔`,
     nickname: `Heun`,
-    stack: ['Backend', 'NodeOps', 'Core'],
+    stack: ['Blockchain'],
     bio: {
       email: `egg6030@gmail.com`,
       residence: 'Seoul, South Korea',
@@ -84,7 +84,7 @@ export default {
   ],
 
   /**
-   * metadata for Playground Page
+   * metadata for Portfolio Page
    */
   projects: [
     {

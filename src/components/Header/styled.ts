@@ -1,7 +1,12 @@
 import styled from '@emotion/styled';
 import { Link } from 'gatsby';
 
-import { contentMaxWidth, hoverUnderline, MOBILE_MEDIA_QUERY } from '@/src/styles/const';
+import {
+  contentMaxWidth,
+  hoverUnderline,
+  MOBILE_MEDIA_QUERY,
+  MOBILE_MEDIA_QUERY_WALLET_CONNECT
+} from "@/src/styles/const";
 
 export const Wrapper = styled.div`
   display: flex;
@@ -68,5 +73,21 @@ export const MenuLink = styled(Link)<{ isselected: string }>`
 
   @media ${MOBILE_MEDIA_QUERY} {
     font-size: 13px;
+  }
+`;
+
+export const WalletButton = styled(MenuLink)`
+  display: flex;
+  position: fixed;
+  top: 21.5px;
+  right: 100px;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+
+  @media ${MOBILE_MEDIA_QUERY_WALLET_CONNECT} {
+    font-size: 13px;
+    top: 90px;
+    right: 20px;
   }
 `;

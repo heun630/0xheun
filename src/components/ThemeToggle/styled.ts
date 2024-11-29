@@ -10,8 +10,8 @@ export const Wrapper = styled.div<{ isDark: boolean }>`
   right: 0;
   background-color: ${({ theme }) => theme.color.black40};
   border-radius: 50%;
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;

@@ -21,7 +21,7 @@ const Header: React.FC<HeaderProps> = ({ title, location }) => {
           </div>
           <div className='mobile-only mobile-logo'>
             <S.MenuLink to='/' isselected='false'>
-              D
+              H
             </S.MenuLink>
           </div>
         </div>
@@ -35,9 +35,10 @@ const Header: React.FC<HeaderProps> = ({ title, location }) => {
           <S.MenuLink to='/guestbook' isselected={(pathname === '/guestbook').toString()}>
             guestbook
           </S.MenuLink>
-          <S.MenuLink to='/playground' isselected={(pathname === '/playground').toString()}>
-            playground
+          <S.MenuLink to='/portfolio' isselected={(pathname === '/portfolio').toString()}>
+            portfolio
           </S.MenuLink>
+          <S.WalletButton to='/walletConnect' isselected={(pathname === '/walletConnect').toString()}>wallet connect</S.WalletButton>
         </S.Menu>
       </S.Header>
     </S.Wrapper>

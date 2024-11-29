@@ -1,10 +1,9 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import ReactRotatingText from 'react-rotating-text';
 
 import { Author } from '@/src/type';
 
-import BuyMeACoffee from '../BuyMeACoffee';
-import Image from '../Image';
+import WalletConnect from '../WalletConnect';
 import * as S from './styled';
 
 type MainBannerProps = {
@@ -25,7 +24,7 @@ const MainBanner: React.FC<MainBannerProps> = ({ author }) => {
           <strong>
             <ReactRotatingText items={stack} />
           </strong>
-          <span>를 좋아하는</span>
+          <span>을 좋아하는</span>
           <br />
           개발자{' '}
           <strong>

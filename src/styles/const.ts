@@ -5,6 +5,9 @@ export const contentMaxWidth = '720px';
 export const MOBILE_MAX_WIDTH = 768;
 export const MOBILE_MEDIA_QUERY = `screen and (max-width: ${MOBILE_MAX_WIDTH}px)`;
 
+export const MOBILE_MAX_WIDTH_WALLET_CONNECT = 1341;
+export const MOBILE_MEDIA_QUERY_WALLET_CONNECT = `screen and (max-width: ${MOBILE_MAX_WIDTH_WALLET_CONNECT}px)`;
+
 export const lightTheme: Theme = {
   color: {
     black100: '#0F1010',

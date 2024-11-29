@@ -29,7 +29,7 @@ const About: React.FC<AboutProps> = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Seo title='0xheun | About' />
-      <MainBanner author={author} />
+      {/*<MainBanner author={author} />*/}
       <Bio bio={author.bio} />
 
       {Object.keys(stamps).map((key) => (
