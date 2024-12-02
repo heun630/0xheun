@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import ReactRotatingText from 'react-rotating-text';
 
 import { Author } from '@/src/type';
-
-import WalletConnect from '../WalletConnect';
 import * as S from './styled';
 
 type MainBannerProps = {
