@@ -46,7 +46,7 @@ export const pageQuery = graphql`
           links {
             post
             github
-            demo
+            link
             googlePlay
             appStore
           }

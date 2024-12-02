@@ -1,8 +1,8 @@
 ---
 emoji: 👩🏻‍💻
-title: 'example2'
-date: '2020-10-30'
-categories: featured-category2 category3
+title: '개발해볼까'
+date: '2024-11-29'
+categories: featured-Dev
 ---
 
 ## 예시 글입니다.

@@ -23,7 +23,7 @@ export default {
   author: {
     name: `이자흔`,
     nickname: `Heun`,
-    stack: ['Blockchain'],
+    stack: ['Blockchain', 'Web3'],
     bio: {
       email: `egg6030@gmail.com`,
       residence: 'Seoul, South Korea',
@@ -44,12 +44,12 @@ export default {
    */
   featured: [
     {
-      title: 'category1',
-      category: 'featured-category1',
+      title: 'Dev',
+      category: 'featured-Dev',
     },
     {
-      title: 'category2',
-      category: 'featured-category2',
+      title: 'Personal',
+      category: 'featured-Personal',
     },
   ],
 
@@ -59,27 +59,35 @@ export default {
   timestamps: [
     {
       category: 'Career',
-      date: '2022.01.04 - NOW',
-      en: 'A Corp.',
-      kr: 'A 회사',
-      info: 'A 팀',
+      date: '2021.07 - 2023.09',
+      en: 'Fineitn Corp.',
+      kr: '전자지갑 서비스',
+      info: '백엔드 및 블록체인 개발',
       link: '',
     },
     {
       category: 'Career',
-      date: '2021.01.04 - 2022.01.04',
-      en: 'B Corp.',
-      kr: 'B 회사',
-      info: 'B 팀',
-      link: '',
+      date: '2024.09 - Now',
+      en: 'Onther Corp.',
+      kr: '블록체인 R&D',
+      info: '블록체인 개발',
+      link: 'https://www.tokamak.network/',
     },
     {
       category: 'Activity',
-      date: '2023.07 - NOW',
-      en: 'Community',
-      kr: '커뮤니티',
-      info: 'IT 커뮤니티',
-      link: '',
+      date: '2024.09 - Now',
+      en: 'Decipher',
+      kr: '서울대학교 블록체인 학회',
+      info: 'Research',
+      link: 'https://decipher.ac/',
+    },
+    {
+      category: 'Activity',
+      date: '2024.06 - Now',
+      en: 'AllofNode',
+      kr: 'NaaS',
+      info: 'CTO',
+      link: 'https://allofnode.xyz',
     },
   ],
 
@@ -88,14 +96,14 @@ export default {
    */
   projects: [
     {
-      title: 'Portfolio',
-      description: '포트폴리오',
-      techStack: ['React', 'Next.js', 'Typescript'],
-      thumbnailUrl: '', // Path to your in the 'assets' folder
+      title: 'AllofNode',
+      description: '노드 구동 대행 서비스',
+      techStack: ['Go', 'React'],
+      thumbnailUrl: 'allofnode.png',
       links: {
         post: '',
         github: '',
-        demo: '',
+        link: 'https://allofnode.xyz/',
         googlePlay: '',
         appStore: '',
       },

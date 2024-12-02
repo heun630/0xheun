@@ -33,7 +33,7 @@ export type Project = {
     github: string;
     googlePlay: string;
     appStore: string;
-    demo: string;
+    link: string;
   };
 };
 

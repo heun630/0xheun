@@ -1,12 +1,11 @@
 ---
-emoji: 👩🏻‍💻
-title: 'example1'
-date: '2020-10-30'
-categories: featured-category1
+emoji: 👨‍💻
+title: '블로그를 만들며..'
+date: '2024-11-29'
+categories: featured-Personal
 ---
 
 ## 예시 글입니다.
-
 ![](ex.webp)
 
 test

@@ -38,7 +38,7 @@ const Header: React.FC<HeaderProps> = ({ title, location }) => {
           <S.MenuLink to='/portfolio' isselected={(pathname === '/portfolio').toString()}>
             portfolio
           </S.MenuLink>
-          <S.WalletButton to='/walletConnect' isselected={(pathname === '/walletConnect').toString()}>wallet connect</S.WalletButton>
+          {/*<S.WalletButton to='/walletConnect' isselected={(pathname === '/walletConnect').toString()}>wallet connect</S.WalletButton>*/}
         </S.Menu>
       </S.Header>
     </S.Wrapper>
