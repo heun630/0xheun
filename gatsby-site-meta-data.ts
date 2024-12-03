@@ -23,7 +23,7 @@ export default {
   author: {
     name: `이자흔`,
     nickname: `Heun`,
-    stack: ['Blockchain', 'Web3'],
+    stack: ['블록체인', 'Web3', "Core 개발"],
     bio: {
       email: `egg6030@gmail.com`,
       residence: 'Seoul, South Korea',
