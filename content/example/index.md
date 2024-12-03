@@ -1,6 +1,6 @@
 ---
 emoji: 👨‍💻
-title: '블로그를 만들며..'
+title: '테스트 중....'
 date: '2024-11-29'
 categories: featured-Personal
 ---
