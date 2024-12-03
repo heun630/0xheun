@@ -20,7 +20,7 @@ app.post('/update', (req, res) => {
     if (event === 'push') {
         console.log('Push event received');
 
-        exec('/home/0xheun/update.sh', (error, stdout, stderr) => {
+        exec('/home/0xheun/update.sh', { maxBuffer: 1024 * 1024 * 10 }, (error, stdout, stderr) => {
             if (error) {
                 console.error(`Error: ${error.message}`);
                 return res.status(500).send('Server Error');
