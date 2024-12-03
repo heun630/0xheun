@@ -13,6 +13,7 @@ yarn cache clean
 
 # 종속성 설치
 yarn install
+yarn build
 
 # PM2 프로세스 재시작
 pm2 delete "0xheun blog"
