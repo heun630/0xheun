@@ -8,6 +8,7 @@ categories: featured-Core
 ## 예시 글입니다.
 
 test
+![](ex.webp)
 
 ```toc
 ```

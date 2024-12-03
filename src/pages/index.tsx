@@ -35,9 +35,9 @@ const Home: React.FC<HomeProps> = ({ location, data }) => {
 
       <FeaturedPostColumn title='Recent Posts' posts={recentPosts} fill={false} />
 
-      {featuredPosts.map(({ title, posts }, i) => (
-        <FeaturedPostColumn key={i} title={title} posts={posts} />
-      ))}
+      {/*{featuredPosts.map(({ title, posts }, i) => (*/}
+      {/*  <FeaturedPostColumn key={i} title={title} posts={posts} />*/}
+      {/*))}*/}
     </Layout>
   );
 };
