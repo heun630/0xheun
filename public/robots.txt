@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jeong-min.com/sitemap/sitemap-index.xml
+Sitemap: https://0xheun.com/sitemap/sitemap-index.xml
