@@ -2,9 +2,8 @@
 
 cd /home/0xheun
 
-# 최신 코드 가져오기
-git fetch --all
-git reset --hard origin/main
+# 최신 코드 가져오기 (git pull 사용)
+git pull origin main
 
 # 모든 파일에 실행 권한 추가
 chmod -R +x /home/0xheun
