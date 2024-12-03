@@ -18,7 +18,7 @@ echo "Installing dependencies..."
 yarn install --verbose
 
 echo "Building project..."
-yarn build --verbose
+yarn build --silent
 
 echo "Restarting PM2 process..."
 pm2 delete "0xheun blog"
