@@ -9,4 +9,4 @@ chmod -R +x /home/0xheun
 
 yarn install
 pm2 delete "0xheun blog"
-pm2 start yarn --name "0xheun blog" -- run serve
+pm2 start ecosystem.config.js
