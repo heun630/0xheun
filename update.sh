@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e  # 에러 발생 시 스크립트 종료
+set -e
 trap 'echo "Error occurred at line $LINENO"; exit 1' ERR
 
 cd /home/0xheun
