@@ -55,6 +55,10 @@ export default {
       title: 'Core',
       category: 'featured-Core',
     },
+    {
+      title: 'Etc',
+      category: 'featured-Etc',
+    },
   ],
 
   /**
