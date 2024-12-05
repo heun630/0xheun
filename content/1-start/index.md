@@ -22,8 +22,9 @@ categories: featured-Personal
 
 단순히 config 설정을 바꾸고 아주 간단한 디자인만 변경했을 뿐이지만, 그럼에도 내 서버에 배포하고, 회사 도메인이 아닌 내가 결제한 개인 도메인을 사용했다는 것에 큰 만족감을 느꼈다.
 
-
 ![](1.webp)
+
+---
 
 &nbsp;
 
@@ -40,6 +41,8 @@ categories: featured-Personal
 앞으로 블로그뿐만 아니라 [Medium](https://medium.com/@0xheun)이나 [X](https://x.com/0xheun) 등 다양한 플랫폼에서도 글을 작성하며, 내 생각을 더 많은 사람들과 공유할 계획이다. 꾸준히 글을 써가며 나만의 관점을 만들어나가고 싶다.
 
 ![](3.jpeg)
+
+---
 
 &nbsp;
 
@@ -59,6 +62,8 @@ categories: featured-Personal
 
 ![](5.gif)
 
+---
+
 &nbsp;
 
 
@@ -74,3 +79,5 @@ categories: featured-Personal
 그리고 내가 이해한 방식대로 복잡한 기술 개념들을 풀어내면, 나처럼 비슷한 주제를 공부하는 사람들에게도 작은 도움이 될 수도 있지 않을까 하는 기대도 있다.
 
 이 과정을 통해 더 단단한 개발자로 성장할 수 있기를 염원하면서.. 꾸준히 해봐야겠다 :)
+
+---
