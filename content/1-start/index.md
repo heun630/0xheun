@@ -26,7 +26,7 @@ categories: featured-Personal
 
 ---
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ## 두 번째 블로그
 
@@ -44,7 +44,7 @@ categories: featured-Personal
 
 ---
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ## 중심을 잡아보자
 
@@ -64,8 +64,7 @@ categories: featured-Personal
 
 ---
 
-&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 
 ## 앞으로의 목표?
 
